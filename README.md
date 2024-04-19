@@ -30,6 +30,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 ## Acesso
 
-Para acessar o Notebook desenvolvido no projeto clique [aqui]( Codigo/Limpeza_tratamento.ipynb)
-
-
+- Para acessar o Notebook desenvolvido no projeto clique [aqui]( Codigo/Limpeza_tratamento.ipynb)
+- Para acessar o certificado do curso clique [aqui](https://drive.google.com/file/d/1N98XAHa1XkAaQU258_wNCIRA5XS7zwOt/view?usp=sharing)
